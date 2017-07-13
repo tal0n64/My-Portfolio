@@ -1,9 +1,18 @@
-
-
+.bodycontent {
+	background-color:black;
+}
 .pgTitle {
-	color:blue;
+	color:white;
 }
 
 .pgGreeting {
-	color:green;
+	color:yellow;
+}
+.mainimg img{
+height: 50%;
+width: 50%;
+}
+
+.section1 {
+	color:red;
 }
