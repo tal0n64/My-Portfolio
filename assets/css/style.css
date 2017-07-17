@@ -1,18 +1,114 @@
-.bodycontent {
-	background-color:black;
-}
+
 .pgTitle {
 	color:white;
+		border: 1px dotted;
+
+padding: 5px;
+
+}
+
+.bodycontent {
+	background-color:black;
+	color: red;
+padding: 10px;
+
+
 }
 
 .pgGreeting {
 	color:yellow;
+
+padding: 5px;
+
 }
 .mainimg img{
-height: 50%;
-width: 50%;
+	height: 50%;
+	width: 50%;
+		margin:0 auto;
+			margin-top: 15px;
+			margin-bottom: 15px;
+
+
+}
+
+.img1 img{
+	height: 50%;
+	width: 50%;
+			margin:0 auto;
+			margin-top: 15px;
+			margin-bottom: 15px;
+
+}
+
+.img2 img{
+	height: 50%;
+	width: 50%;
+			margin:0 auto;
+			margin-top: 30px;
+			margin-bottom: 30px;
 }
 
 .section1 {
 	color:red;
+		border: 2px solid;
+			width 10%;
+				margin:0 auto;
+					margin-top: 25px;
+					margin-bottom: 25px;
+padding: 15px;
+
 }
+
+
+.nav {
+	color:blue;
+	height: 75%;
+	width: 75%;
+		border: 2px solid;
+			width 10%;
+				margin:0 auto;
+					margin-top: 25px;
+					margin-bottom: 25px;
+}
+
+
+.flex {
+	height: 50px;
+	width: 50px;
+	border: 12px solid;
+	border: 2px dotted;
+	display
+
+}
+
+.flexe{
+	height: 50px;
+	width: 50px;
+	border: 12px solid;
+	border: 2px dotted;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
